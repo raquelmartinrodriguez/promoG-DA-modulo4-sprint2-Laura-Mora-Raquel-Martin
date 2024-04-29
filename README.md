@@ -1,5 +1,3 @@
-# promoG-DA-modulo4-sprint2-Laura-Mora-Raquel-Martin
-
 ## Análisis de Éxitos Literarios para la Librería Palabras Encantadas
 
 ¡Bienvenidos al repositorio del proyecto de análisis de éxitos literarios para la Librería Palabras Encantadas!
