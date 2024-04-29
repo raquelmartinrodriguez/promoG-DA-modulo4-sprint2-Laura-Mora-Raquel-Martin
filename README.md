@@ -34,7 +34,7 @@ En este repositorio encontrarás:
 
 Si tienes alguna pregunta o sugerencia sobre este proyecto, no dudes en contactarnos:
 
-    Laura Mora - laura_m_romero@hotmail.com
-    Raquel Martín - atv.raquel@gmail.com
+    Laura Mora - laura_m_romero@hotmail.com / www.linkedin.com/in/laura-mora-romero-9998722b9
+    Raquel Martín - atv.raquel@gmail.com / https://www.linkedin.com/notifications/?filter=all
 
 ¡Gracias por tu interés en nuestro trabajo!
